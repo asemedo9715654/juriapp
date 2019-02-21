@@ -1,0 +1,10 @@
+/Users/angelosemedo/Desktop/juriapp/bin/Debug/netcoreapp2.0/juriapp.deps.json
+/Users/angelosemedo/Desktop/juriapp/bin/Debug/netcoreapp2.0/juriapp.runtimeconfig.json
+/Users/angelosemedo/Desktop/juriapp/bin/Debug/netcoreapp2.0/juriapp.runtimeconfig.dev.json
+/Users/angelosemedo/Desktop/juriapp/bin/Debug/netcoreapp2.0/juriapp.dll
+/Users/angelosemedo/Desktop/juriapp/bin/Debug/netcoreapp2.0/juriapp.pdb
+/Users/angelosemedo/Desktop/juriapp/obj/Debug/netcoreapp2.0/juriapp.csproj.CoreCompileInputs.cache
+/Users/angelosemedo/Desktop/juriapp/obj/Debug/netcoreapp2.0/juriapp.AssemblyInfoInputs.cache
+/Users/angelosemedo/Desktop/juriapp/obj/Debug/netcoreapp2.0/juriapp.AssemblyInfo.cs
+/Users/angelosemedo/Desktop/juriapp/obj/Debug/netcoreapp2.0/juriapp.dll
+/Users/angelosemedo/Desktop/juriapp/obj/Debug/netcoreapp2.0/juriapp.pdb
